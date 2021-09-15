@@ -1,3 +1,9 @@
+#background-image{
+    background-image: url("./images/oleschooltape.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 h1{
     color:blue;
 }
