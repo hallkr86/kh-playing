@@ -2,8 +2,26 @@
     background-image: url("./images/oleschooltape.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: cursive;
 }
+
+#background-imagetwo{
+    background-image: url("./images/cosmicpic.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+}
+
+
 
 h1{
     color:blue;
+}
+
+.card{
+    border-radius: 25px;
+}
+
+.card-body{
+    background-color:lightgrey;  
 }
